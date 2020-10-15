@@ -1,1 +1,2 @@
 We are learning git basics
+Git is lightweight
