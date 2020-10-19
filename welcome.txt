@@ -2,3 +2,4 @@ We are learning git basics
 Git is lightweight
 Git is cool
 Git is distributed
+Git is comprehensive tool
